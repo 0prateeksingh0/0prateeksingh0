@@ -29,7 +29,7 @@ Here are some ideas to get you started:
  
  🌱 I’m currently learning ** **matplotlib, SQL, Power BI, Tableau****
 
- 💬 Ask me about **js, React, Django, MongoDB... or anything [here](https://github.com/0prateeksingh0/pre-06/issues)**
+ 💬 Ask me about **js, React, Django, MongoDB... or anything [here](https://github.com/0prateeksingh0/0prateeksingh0/issues)**
 
  ⚡ Fun fact **Code Geass was sponsored by none other than Pizza Hut**
  
