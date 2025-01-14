@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 <hr/>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2> <br/> <div align="center"> <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,express,mongodb,postgresql,graphql,django,aws,python,html,css,bootstrap,vscode,git,github,linux" /> </div>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2> <br/> <div align="center"> <img src="https://skillicons.dev/icons?i=html,css,mysql,javascript,typescript,react,nodejs,express,mongodb,postgresql,graphql,django,aws,python,html,css,bootstrap,vscode,git,github,linux" /> </div>
 
 <br/> <hr/>
 
