@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋+;+I'm+Prateek+Singh!;" />
 </h1>
 
-<h3 align="center">Software Developer • React | Node.js | React Native • India 🇮🇳</h3>
+<h3 align="center">Software Developer • React | Node.js | FastAPI | AI | React Native • India 🇮🇳</h3>
 
 ---
 
@@ -68,7 +68,8 @@ I work across the **MERN stack, Backend APIs, Mobile Apps, AWS, and DevOps** to 
 ### ⚒️ Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=javascript,typescript,react,reactnative,nextjs,nodejs,express,mongodb,postgresql,graphql,python,cpp,aws,docker,git,github,linux,tailwind,html,css,vscode" />
+<img src="https://skillicons.dev/icons?i=react,javascript,typescript,reactnative,nextjs,nodejs,express,mongodb,postgresql,graphql,python,cpp,aws,docker,git,github,linux,tailwind,html,css,vscode" />
+
 </div>
 
 ---
